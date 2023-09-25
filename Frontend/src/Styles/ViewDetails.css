@@ -1,0 +1,35 @@
+#table{
+  max-width:700px;
+  justify-content: center;
+  text-align: center;
+  place-items: center;
+}
+#edit{
+  color:rgb(133, 133, 232);
+  cursor: pointer;
+}
+#delete{
+  color:red;
+  cursor: pointer;
+}
+#edit:hover{
+  color:rgb(11, 11, 139);
+}
+#delete:hover{
+  color:rgb(202, 4, 4);
+
+}
+#your{
+  position: absolute;
+  color:white;
+  padding-bottom: 700px;
+  text-align: center;
+  margin-top: 100px;
+}
+.view-body{
+  text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height:100vh;
+}

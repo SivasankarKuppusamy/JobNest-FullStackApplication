@@ -1,0 +1,14 @@
+#footer-logo{
+  max-width:100px;
+  display:flex;
+}
+#follow{
+  margin-top: 60px;
+}
+
+#footer{
+  background-color: rgb(127, 139, 137);
+  
+  left: 0;
+  bottom: 0;
+}

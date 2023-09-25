@@ -1,0 +1,142 @@
+.search-com,.search-city{
+  max-width: 250px;
+  margin-left: 10px;
+}
+
+.search-head{
+  color:white;
+}
+.search-btn{
+    
+    border-radius: 15px;
+    margin: 30px 0;
+    padding: 10px;
+    border: none;
+    background-color: #9526a9;
+    color: #fff;
+    font-size: 14px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: 0.3s all ease-in-out;
+}
+ .search-btn:hover{
+    max-width:50%;
+    font-size: 17px;
+    border-radius: 15px;
+}
+.jobs-container{
+  text-align: center;
+  padding-top: 10px;
+  max-width: 600px;
+  background-color: #fafafa;
+  min-width: 500px;
+  border:0.5px solid;
+  padding: 10px;
+  border-radius: 10px;
+  min-height:100%;
+  cursor: pointer;
+}
+
+.container-right{
+  text-align: center;
+  padding-top: 10px;
+  max-width: 1000px;
+  background-color: #fafafa;
+  min-width: 1000px;
+  border:0.5px solid;
+  padding: 10px;
+  border-radius: 10px;
+  min-height:100%;
+}
+.containers{
+  max-width: 50px;
+  min-width: 50px;
+  margin-left: 200px;
+}
+
+.containers p{
+  width:100%;
+  padding:10px;
+  text-align: left;
+}
+.page{
+  display: flex;
+  padding-top:10px;
+  min-width:500px;
+  padding-bottom:50px;
+  place-self: center;
+  place-items: center;
+  justify-content: center;
+  
+}
+.left {
+  float: left;
+  width: 50%;
+  margin-top: 100px;
+}
+.right {
+  float: right;
+  width: 50%;
+  margin-top: 100px;
+  margin-right: 510px;
+}
+.container-home {
+  display: flex;
+  justify-content: space-between;
+}
+#apply{
+  position: absolute;
+  width:10%;
+  border-radius: 15px;
+  margin: 30px 0;
+  padding: 10px;
+  border: none;
+  background-color: #9526a9;
+  color: #fff;
+  font-size: 16px;
+  margin-left: 80px;
+  cursor: pointer;
+  transition: 0.3s all ease-in-out;
+}
+#apply:hover{
+  position:absolute;
+  min-width:10.5%;
+  font-size: 18px;
+  border-radius: 15px;
+  
+}
+#ti{
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 17px;
+}
+#det{
+  display: flex;
+  font-size: 18px;
+  margin-left: 75px;
+}
+.salary{
+  background-color: rgb(163, 158, 158);
+  max-width: 210px;
+  max-height: 38px;
+  font-size: 10px;
+  border-radius: 10px;
+margin-left: 250px;
+}
+#sal{
+  font-size: 16px;
+  font-weight :1000;
+}
+#sal-icon{
+  max-width: 22px;
+  max-height: 25px;
+}
+#detail-job{
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 1000;
+}
+#t{
+  font-weight: 500;
+
+}
